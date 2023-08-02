@@ -52,4 +52,4 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 
 </footer>
 
-lol gotem
+lol
